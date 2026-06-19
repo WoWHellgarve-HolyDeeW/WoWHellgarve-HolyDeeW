@@ -2,7 +2,7 @@
 
 # HolyDEEW
 
-**I build game servers, emulator tooling, backend systems, and infrastructure for projects that actually go live.**
+**I build game servers, emulator tooling, backend systems, and infrastructure for live online projects.**
 
 [GitHub](https://github.com/WoWHellgarve-HolyDeeW) | [Legacy GitHub](https://github.com/holydeew) | [Hellgarve](https://wowhellgarve.com/) | [iHostNexus](https://ihostnexus.com/) | [SPP](https://discord.com/invite/single-player-project-291115666097045506) | [YouTube](https://www.youtube.com/@wowhellgarve)
 
@@ -17,7 +17,7 @@ I like the practical side of development: crash fixes, broken content, database 
 ## What I Build
 
 - WoW emulation: core fixes, custom systems, scripts, bug trackers, Legion/WotLK/Shadowlands-era maintenance, repack research, server behavior, and production support.
-- SPP WoW Single Player Project: Head Developer work focused on stability, difficult server behavior, crashes, tooling, debugging, and practical builds for players who run WoW locally.
+- SPP WoW Single Player Project: Developer work focused on stability, difficult server behavior, crashes, tooling, debugging, and practical builds for players who run WoW locally.
 - KyrianCORE / Shadowlands: research, packaging, testing, fixes, forum/community support, and keeping complicated 9.x-era systems usable.
 - Backend and web systems: FastAPI, Next.js, dashboards, admin panels, APIs, launchers, registration/download flows, and public project websites.
 - Infrastructure: home servers, DNS/DDNS, router and port setup, Windows/Linux server operations, Docker stacks, deployment, monitoring, automation, backups, and recovery.
@@ -30,7 +30,7 @@ I like the practical side of development: crash fixes, broken content, database 
 Founder, owner, and main developer. I work across server setup, emulator maintenance, bug tracking, registration and download flows, community support, Discord, launcher/player experience, and long-term operations.
 
 **SPP WoW Single Player Project**  
-Head Developer work around the hard parts of single-player WoW: server behavior, crashes, stability, fixes, tooling, debugging, and making local builds easier for players to run.
+Developer work around single-player WoW: server behavior, crashes, stability, fixes, tooling, debugging, and making local builds easier for players to run.
 
 **KyrianCORE**  
 Shadowlands-era WoW emulation work around core research, packaging, testing, fixes, and community support. Public reference: [KyrianCORE-OpenSource](https://github.com/coolzoom/KyrianCORE-OpenSource).
