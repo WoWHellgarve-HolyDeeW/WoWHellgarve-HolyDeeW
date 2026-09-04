@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" fill="none">
+  <title>HolyDEEW — independent developer</title>
+  <desc>Developer from Portugal working on games, web products and reverse engineering.</desc>
+  <rect width="1200" height="280" rx="16" fill="#0D151B"/>
+  <rect x="1" y="1" width="1198" height="278" rx="15" stroke="#25343C"/>
+  <path d="M48 45H80" stroke="#77E1B8" stroke-width="3"/>
+  <text x="96" y="50" fill="#A6B7BF" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="600" letter-spacing="2.6">PORTUGAL / INDEPENDENT DEVELOPER</text>
+  <text x="46" y="148" fill="#F1F6F8" font-family="Segoe UI,Arial,sans-serif" font-size="76" font-weight="700" letter-spacing="-3">HolyDEEW<tspan fill="#77E1B8">.</tspan></text>
+  <text x="50" y="198" fill="#C0CCD2" font-family="Segoe UI,Arial,sans-serif" font-size="24">Games, web products &amp; reverse engineering.</text>
+  <path d="M50 238H790" stroke="#25343C"/>
+  <g stroke="#263A43" stroke-width="1.4">
+    <path d="M897 40H1121M897 240H1121M909 28V252M1109 28V252"/>
+    <rect x="949" y="80" width="120" height="120" rx="24"/>
+    <rect x="971" y="102" width="76" height="76" rx="13"/>
+    <path d="M949 120H909V80H873M949 160H885V220H851M1069 120H1109V76H1145M1069 160H1133V208H1161M989 80V48M1029 80V28M989 200V252M1029 200V232"/>
+  </g>
+  <path d="M997 122L979 140L997 158M1021 122L1039 140L1021 158" stroke="#77E1B8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="873" cy="80" r="4" fill="#77E1B8"/>
+  <circle cx="851" cy="220" r="4" fill="#3B5964"/>
+  <circle cx="1145" cy="76" r="4" fill="#3B5964"/>
+  <circle cx="1161" cy="208" r="4" fill="#77E1B8"/>
+</svg>
