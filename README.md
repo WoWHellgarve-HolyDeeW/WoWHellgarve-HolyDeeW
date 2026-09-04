@@ -69,7 +69,11 @@ Some of my work has been merged into [AzerothCore's anticheat module](https://gi
 
 <br>
 
-I also led **CritiKlan**, a Call of Duty 2 clan in the ClanBase days. The team appears as **critiKlan.CoD²** in a [2007 Iberian Cup registration report](https://cod2.gamersmafia.com/noticias/23011), one of the surviving records from that time.
+I also led **CritiKlan**, a Call of Duty 2 clan in the ClanBase days. In October 2007, [ClanBase listed us as the record holder for time at #1](https://web.archive.org/web/20071013070313/http://clanbase.ggl.com:80/rating.php?lid=3026) in Portugal's **CoD2 Search & Destroy 3on3 ladder: 39 days**.
+
+[![ClanBase's archived Portuguese CoD2 S&D 3on3 ladder, showing critiKlan as the Rank 1 record holder with 39 days on 13 October 2007](./assets/critiklan-clanbase-record-2007.png)](https://web.archive.org/web/20071013070313/http://clanbase.ggl.com:80/rating.php?lid=3026)
+
+The [original clan profile](https://web.archive.org/web/20071016125410/http://clanbase.ggl.com:80/claninfo.php?cid=1298633), [our old website](https://web.archive.org/web/20070628230900/http://critiklan.ptservidor.com:80/) and a [2007 Iberian Cup registration report](https://cod2.gamersmafia.com/noticias/23011) also survive in the archives.
 
 My Lineage II work included networking, account panels, rankings, databases and community support. [L2Hellgarve's 2018 archive](https://web.archive.org/web/20180401122354/http://www.l2hellgarve.com/) is one surviving record of that work.
 
