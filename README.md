@@ -4,7 +4,7 @@
 
 I'm a developer from Portugal. I build games, Android apps and web products, and reverse engineer MMORPGs and other online games.
 
-I got started running game servers. That turned into years of working on emulators, fixing crashes, building tools and looking after live communities. These days, I split my time between that work and products of my own.
+I started at 16, running Lineage II private servers. That turned into years of working on emulators, fixing crashes, building tools and looking after live communities. These days, I split my time between that work and products of my own.
 
 ### What I'm building
 
@@ -37,7 +37,7 @@ I got started running game servers. That turned into years of working on emulato
 
 ### Game servers & reverse engineering
 
-**[Hellgarve / WoWHellGarve](https://wowhellgarve.com/)** is where much of this started. I'm the founder and main developer, working on WoW emulation, custom systems, databases, launchers and the day-to-day work of keeping servers running.
+My work with Lineage II later led me to WoW and **[Hellgarve / WoWHellGarve](https://wowhellgarve.com/)**. I'm its founder and main developer, working on WoW emulation, custom systems, databases, launchers and the day-to-day work of keeping servers running.
 
 I also work on **SPP WoW Single Player Project** and **KyrianCORE / Shadowlands**: debugging server behaviour, investigating crashes, testing fixes and making local builds easier to run.
 
@@ -71,7 +71,7 @@ Some of my work has been merged into [AzerothCore's anticheat module](https://gi
 
 I also led **CritiKlan**, a Call of Duty 2 clan in the ClanBase days. The team appears as **critiKlan.CoD²** in a [2007 Iberian Cup registration report](https://cod2.gamersmafia.com/noticias/23011), one of the surviving records from that time.
 
-Before WoW, I ran Lineage II servers: networking, account panels, rankings, databases and community support. [L2Hellgarve's 2018 archive](https://web.archive.org/web/20180401122354/http://www.l2hellgarve.com/) is a piece of that history.
+My Lineage II work included networking, account panels, rankings, databases and community support. [L2Hellgarve's 2018 archive](https://web.archive.org/web/20180401122354/http://www.l2hellgarve.com/) is one surviving record of that work.
 
 More of my older work lives on [@holydeew](https://github.com/holydeew), including [TrinityCore custom changes](https://github.com/holydeew/TrinityCoreCustomChanges) and [WoWHellgarve Legion](https://github.com/holydeew/WoWHellgarve-Legion). I've also worked on Android experiments, including OctuposAI, which was previously published on Google Play.
 
