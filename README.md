@@ -2,7 +2,7 @@
   <img src="./assets/profile-header.svg" alt="HolyDEEW — independent developer from Portugal. Games, web products and reverse engineering." width="100%">
 </p>
 
-I'm a developer from Portugal. I build games, Android apps and web products, and reverse engineer MMORPGs and other online games.
+I'm Nelson, known online as **HolyDEEW**. I'm a developer from Portugal building games, Android apps and web products, with a background in reverse engineering MMORPGs and other online games.
 
 I started at 16, running Lineage II private servers. That turned into years of working on emulators, fixing crashes, building tools and looking after live communities. These days, I split my time between that work and products of my own.
 
@@ -64,16 +64,29 @@ Some of my work has been merged into [AzerothCore's anticheat module](https://gi
 **Web & data** · Next.js · Node.js · FastAPI · MySQL · PostgreSQL · Redis<br>
 **Systems & research** · Linux · Windows Server · Docker · Frida · AzerothCore · TrinityCore
 
+### ClanBase days
+
+I led **CritiKlan** in Call of Duty 2 as **N3/_$ON**. Our [August 2007 team announcement](https://web.archive.org/web/20070830031822/http://www.critiklan.ptservidor.com:80/index.php) and [ClanBase roster](https://web.archive.org/web/20071016125410/http://clanbase.ggl.com:80/claninfo.php?cid=1298633) still carry that name.
+
+We reached **#1 in Portugal's CoD2 Search & Destroy 3on3 ladder**. The [ClanBase snapshot from 13 October 2007](https://web.archive.org/web/20071013070313/http://clanbase.ggl.com:80/rating.php?lid=3026) lists critiKlan as the record holder for time at #1: **39 days**.
+
+<details>
+<summary>See the original results and team roster</summary>
+
+<br>
+
+[![ClanBase's Portuguese CoD2 S&D 3on3 ladder, showing critiKlan as the Rank 1 record holder with 39 days on 13 October 2007](./assets/critiklan-clanbase-record-2007.png)](https://web.archive.org/web/20071013070313/http://clanbase.ggl.com:80/rating.php?lid=3026)
+
+[![The original CritiKlan roster, with N3/_$ON listed as Leader](./assets/critiklan-clanbase-team-2007.png)](https://web.archive.org/web/20071016125410/http://clanbase.ggl.com:80/claninfo.php?cid=1298633)
+
+[Team news and the July 2007 report of reaching #1](https://web.archive.org/web/20070830031822/http://www.critiklan.ptservidor.com:80/index.php) · [Spring OpenCup team](https://web.archive.org/web/20070628230900/http://critiklan.ptservidor.com:80/) · [Iberian Cup registration](https://cod2.gamersmafia.com/noticias/23011)
+
+</details>
+
 <details>
 <summary><strong>Earlier work & background</strong></summary>
 
 <br>
-
-I also led **CritiKlan**, a Call of Duty 2 clan in the ClanBase days. In October 2007, [ClanBase listed us as the record holder for time at #1](https://web.archive.org/web/20071013070313/http://clanbase.ggl.com:80/rating.php?lid=3026) in Portugal's **CoD2 Search & Destroy 3on3 ladder: 39 days**.
-
-[![ClanBase's archived Portuguese CoD2 S&D 3on3 ladder, showing critiKlan as the Rank 1 record holder with 39 days on 13 October 2007](./assets/critiklan-clanbase-record-2007.png)](https://web.archive.org/web/20071013070313/http://clanbase.ggl.com:80/rating.php?lid=3026)
-
-The [original clan profile](https://web.archive.org/web/20071016125410/http://clanbase.ggl.com:80/claninfo.php?cid=1298633), [our old website](https://web.archive.org/web/20070628230900/http://critiklan.ptservidor.com:80/) and a [2007 Iberian Cup registration report](https://cod2.gamersmafia.com/noticias/23011) also survive in the archives.
 
 My Lineage II work included networking, account panels, rankings, databases and community support. [L2Hellgarve's 2018 archive](https://web.archive.org/web/20180401122354/http://www.l2hellgarve.com/) is one surviving record of that work.
 
