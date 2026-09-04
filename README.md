@@ -54,6 +54,10 @@ My reverse engineering work covers MMORPGs and games such as **Rise of Kingdoms*
 | [holyconnect](https://github.com/WoWHellgarve-HolyDeeW/holyconnect) | USB tethering tools for Pi-Star / MMDVM hotspots. |
 | [Kayak Adventures Lagos](https://kayakadventureslagos.com/) · [code](https://github.com/WoWHellgarve-HolyDeeW/kayakadventureslagos) | Website work for a local tourism business. |
 
+### Open-source contributions
+
+Some of my work has been merged into [AzerothCore's anticheat module](https://github.com/azerothcore/mod-anticheat): battleground adjustments for [Alterac Valley — Alliance](https://github.com/azerothcore/mod-anticheat/pull/97), [Alterac Valley — Horde](https://github.com/azerothcore/mod-anticheat/pull/98) and [Warsong Gulch](https://github.com/azerothcore/mod-anticheat/pull/99), plus a [Portuguese README](https://github.com/azerothcore/mod-anticheat/pull/96). These contributions are under my earlier account, **@holydeew**.
+
 ### Tools I work with
 
 **Code** · C++ · C# · Python · TypeScript · JavaScript · PHP<br>
@@ -64,6 +68,8 @@ My reverse engineering work covers MMORPGs and games such as **Rise of Kingdoms*
 <summary><strong>Earlier work & background</strong></summary>
 
 <br>
+
+I also led **CritiKlan**, a Call of Duty 2 clan in the ClanBase days. The team appears as **critiKlan.CoD²** in a [2007 Iberian Cup registration report](https://cod2.gamersmafia.com/noticias/23011), one of the surviving records from that time.
 
 Before WoW, I ran Lineage II servers: networking, account panels, rankings, databases and community support. [L2Hellgarve's 2018 archive](https://web.archive.org/web/20180401122354/http://www.l2hellgarve.com/) is a piece of that history.
 
