@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="./assets/profile-header.svg" alt="HolyDEEW — independent developer from Portugal. AI agents, web products and reverse engineering." width="100%">
+  <img src="https://raw.githubusercontent.com/WoWHellgarve-HolyDeeW/WoWHellgarve-HolyDeeW/34326170187299276c9c6c2b1a8dceb295b5c403/assets/profile-header.svg" alt="HolyDEEW — AI, software and game systems." width="100%">
 </p>
 
-I'm **Nelson**, known online as **HolyDEEW**, an independent developer from Portugal. I build AI agents, web products and game systems, with a background in MMORPG emulation and reverse engineering.
+I'm **Nelson (HolyDEEW)**. I build AI agents, web platforms and game systems, with a focus on MMORPG emulation and reverse engineering.
 
 **Founder & main developer · [WoWHellgarve](https://wowhellgarve.com/)**<br>
 **Developer · [SPP — Single Player Project](https://discord.com/invite/single-player-project-291115666097045506)**<br>
@@ -40,7 +40,6 @@ The platform is publicly available and combines account integrations, browser au
 | **[HXARK Sniffer](https://github.com/WoWHellgarve-HolyDeeW/HXARK-Sniffer)** | A Windows tool for WoW Retail packet capture, with automatic network-interface detection and PKT output for WowPacketParser. **Beta**, with build-specific compatibility. |
 | **[RoK Stats Hub](https://github.com/WoWHellgarve-HolyDeeW/Rok-stats-titlebot)** | Runtime instrumentation and protocol analysis for Rise of Kingdoms, with data collection pipelines and a FastAPI / Next.js analytics dashboard. |
 | **[HolyConnect](https://github.com/WoWHellgarve-HolyDeeW/holyconnect)** | USB networking between Windows and Pi-Star / MMDVM hotspots: Raspberry Pi setup, RNDIS, internet sharing and diagnostics for hardware with failed Wi-Fi. |
-| **[mod-multi-vendor](https://github.com/WoWHellgarve-HolyDeeW/mod-multi-vendor)** | A C++ / SQL multi-vendor module for AzerothCore and WoWHellgarve WotLK, with shop lists managed through the database. |
 
 ### WoWHellgarve & SPP
 
@@ -50,22 +49,30 @@ I'm also a **developer on SPP — Single Player Project**, working on server deb
 
 My background includes Lineage II and WoW emulation, server networking, runtime instrumentation, memory analysis and protocol research.
 
-### Selected open-source contributions
-
-- **AzerothCore:** [logging module refactoring and compatibility updates](https://github.com/azerothcore/mod-detailed-logging/pull/10), merged upstream.
-- **AMALIA:** [checkpoint filtering](https://github.com/AMALIA-LLM/amalia-lm-eval/pull/5) and [result-table output fixes](https://github.com/AMALIA-LLM/amalia-lm-eval/pull/4) for European Portuguese language-model evaluation. Pull requests submitted; awaiting review.
-
-### Android development
-
-**[Guardião SOS](https://guardiaosos.com/)** — an experimental Android safety application using on-device sensors to identify possible falls and road accidents, with a cancellable countdown before an SOS message. **In development / testing; not yet publicly released on Google Play.**
-
 ### Tools I work with
 
 **Code** · C++ · C# · Python · TypeScript · JavaScript · PHP · PowerShell<br>
 **Web & data** · Next.js · Node.js · FastAPI · MySQL · PostgreSQL · Redis<br>
 **Systems & research** · Linux · Windows Server · Docker · Frida · AzerothCore · TrinityCore
 
+<details>
+<summary>Guardião SOS — Android project in testing</summary>
+
+**[Guardião SOS](https://guardiaosos.com/)** — an experimental Android safety application using on-device sensors to identify possible falls and road accidents, with a cancellable countdown before an SOS message. **In development / testing; not yet publicly released on Google Play.**
+
+</details>
+
+<details>
+<summary>Earlier competitive gaming — CritiKlan / ClanBase</summary>
+
+I led **CritiKlan** in Call of Duty 2 as **N3/_$ON**. The team reached **#1 in Portugal's CoD2 Search & Destroy 3on3 ladder**. ClanBase's snapshot from 13 October 2007 lists critiKlan as the record holder for time at #1: **39 days**.
+
+[Original ladder record](https://web.archive.org/web/20071013070313/http://clanbase.ggl.com:80/rating.php?lid=3026) · [Team roster](https://web.archive.org/web/20071016125410/http://clanbase.ggl.com:80/claninfo.php?cid=1298633)
+
+</details>
+
 ---
 
 [HXARK](https://hxark.com/) · [WoWHellgarve](https://wowhellgarve.com/) · [SPP community](https://discord.com/invite/single-player-project-291115666097045506)
+
 
